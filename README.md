@@ -82,3 +82,17 @@ python baselines/hybrid/evaluate_results.py \
 ## 🚧 Dataset
 The dataset is currently being refined and will be released soon.  
 Stay tuned for updates!
+
+## Citation
+Please cite our paper at:
+```
+@misc{cheng2025ctiarenabenchmarkingllmknowledge,
+      title={CTIArena: Benchmarking LLM Knowledge and Reasoning Across Heterogeneous Cyber Threat Intelligence}, 
+      author={Yutong Cheng and Yang Liu and Changze Li and Dawn Song and Peng Gao},
+      year={2025},
+      eprint={2510.11974},
+      archivePrefix={arXiv},
+      primaryClass={cs.CR},
+      url={https://arxiv.org/abs/2510.11974}, 
+}
+```
