@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/icon.png" alt="Logo" width="100">
-  <h1 align="center">CTIArena: Automatic Cyber Threat Intelligence Knowledge Graph Construction Using Large Language Models</h1>
+  <h1 align="center">CTIArena: Benchmarking LLM Knowledge and Reasoning Across Heterogeneous Cyber Threat Intelligence</h1>
 </div>
 <h2> 🔔 Introduction</h2>
 <p align="center">
